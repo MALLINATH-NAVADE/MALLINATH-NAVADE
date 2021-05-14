@@ -1,4 +1,4 @@
-NOTE: While going through my Github account, if you found any mistakes or some ideas regarding modifications of any of these, you can suggest me anything! 
+NOTE: While going through my Github account, if you found any mistakes or some ideas regarding modifications of any of these, you can suggest me anything! Thank you.
       
 
 - 👋 Hi, I’m @MALLINATH-NAVADE.
