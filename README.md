@@ -1,7 +1,7 @@
 NOTE: While going through my Github account, if you found any mistakes or some ideas regarding modifications of any of these, you can suggest me anything! 
       
 
-- 👋 Hi, I’m @MALLINATH-NAVADE
+- 👋 Hi, I’m @MALLINATH-NAVADE.
 - 👁 I'm an Aspiring Mechanical Engineer.
 - 👀 I’m interested in ML, DL, DATA SCIENCE, ROBOTICS etc.
 - 🌱 I’m currently studying RV COLLEGE OF ENGINEERING, BENGALURU.
